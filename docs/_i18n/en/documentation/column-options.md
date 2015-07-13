@@ -218,7 +218,7 @@ The column options is defined in `jQuery.fn.bootstrapTable.columnDefaults`.
         <td>Function</td>
         <td>undefined</td>
         <td>
-        The cell style formatter function, take three parameters: <br>
+        The cell style formatter function, takes three parameters: <br>
         value: the field value.<br>
         row: the row record data.<br>
         index: the row index.<br>
